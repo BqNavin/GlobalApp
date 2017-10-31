@@ -1,0 +1,22 @@
+{
+  "name": "GlobalApp",
+  "version": "0.1.0",
+  "summary": "A short description of GlobalApp.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/BqNavin/GlobalApp",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "BqNavin": "navin.sharma@bqurious.com"
+  },
+  "source": {
+    "git": "https://github.com/BqNavin/GlobalApp.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GlobalApp/Classes/**/*"
+}

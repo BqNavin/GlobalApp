@@ -7,10 +7,12 @@
 //
 
 import UIKit
-
+import DemoApp
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
+        let textdemo = text()
+        text.demo()
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }

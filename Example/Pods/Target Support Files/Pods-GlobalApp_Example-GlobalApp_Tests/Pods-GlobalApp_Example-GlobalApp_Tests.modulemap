@@ -1,0 +1,6 @@
+framework module Pods_GlobalApp_Example_GlobalApp_Tests {
+  umbrella header "Pods-GlobalApp_Example-GlobalApp_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

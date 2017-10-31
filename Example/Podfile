@@ -4,8 +4,7 @@ target 'GlobalApp_Example' do
   pod 'GlobalApp', :path => '../'
 
   target 'GlobalApp_Tests' do
-    inherit! :search_paths
+  pod 'GlobalApp', :path => '../'
 
-    pod 'FBSnapshotTestCase' , '~> 2.1.4'
   end
 end

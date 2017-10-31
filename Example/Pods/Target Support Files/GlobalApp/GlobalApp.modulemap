@@ -1,0 +1,6 @@
+framework module GlobalApp {
+  umbrella header "GlobalApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
